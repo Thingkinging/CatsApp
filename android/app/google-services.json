@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133768705314",
+    "project_id": "jj-on-fire-8bd71",
+    "storage_bucket": "jj-on-fire-8bd71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133768705314:android:a681e355977812fca4e17b",
+        "android_client_info": {
+          "package_name": "com.example.daily_cats_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcVvTvnWNmeO_1sPGZJY7EujlwtMcG-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
